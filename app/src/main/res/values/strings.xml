@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">hw6_m1</string>
+    <string name="write_your_text">Write your text</string>
+    <string name="send">Send</string>
+</resources>
